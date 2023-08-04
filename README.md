@@ -19,4 +19,4 @@ SQL
 Excel
 
 # Contact Me
-Feel free to reach out to me on LinkedIn or send me an email at your-email@example.com.
+Feel free to reach out to me on LinkedIn (https://www.linkedin.com/in/lawzijun/) or send me an email at novaslaw95@gmail.com.
