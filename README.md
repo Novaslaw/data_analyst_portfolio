@@ -14,8 +14,11 @@ Skills
 
 # Tools
 Python
+
 Jupyter Notebook
+
 SQL
+
 Excel
 
 # Contact Me
