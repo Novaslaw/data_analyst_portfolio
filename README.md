@@ -25,6 +25,9 @@ Data Cleaning
 Python (BeautifulSoup, pandas, json)
 
 # Project 3: Data Analyst Job Posting Analysis with Tableau
+
+(https://public.tableau.com/app/profile/novas.law/viz/DataAnalystJobPostingonJobstreet/Dashboard1))
+
 This project involves creating a Tableau dashboard to visualize and analyze the data scraped in Project 2. The dashboard presents various visualizations related to job postings for data analyst positions on Jobstreet.
 
 Skills:
