@@ -24,8 +24,14 @@ Data Cleaning
 
 Python (BeautifulSoup, pandas, json)
 
-# Project 3: 
-Skills
+# Project 3: ETH NFT Marketplace Volume and Top 50 NFT Projects Analysis
+This project involves analyzing Ethereum NFT marketplace volume and the top 50 NFT projects. The data is sourced from Dune Analytics and includes visualizations of the volume of Ethereum and USD traded on different NFT marketplaces, as well as the top 50 NFT collections ranked by their all-time trading volume. The goal of this analysis is to understand trends in the NFT market and compare the performance of different NFT marketplaces and collections.
+
+Skills:
+
+Data Visualization
+
+SQL
 
 # Tools
 Python
