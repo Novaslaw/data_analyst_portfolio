@@ -7,19 +7,24 @@ Projects
 This project presents an exploratory data analysis (EDA) on the Gift and Tape dataset, sourced from a Shopee e-commerce store that specializes in selling gift boxes and attracting gifts. The goal of this analysis is to uncover insights that could potentially increase profitability for the store.
 
 Skills:
-
-Data Cleaning
-
 Data Visualization
 
 Exploratory Data Analysis
 
-Python (pandas, matplotlib, seaborn)
+Python (numpy, pandas, matplotlib, seaborn)
 
-Project 2: 
+# Project 2: Job Website Scraping Tool for Data Analyst Positions
+This project involves creating a tool to scrape job postings for data analyst positions from a website using Python's BeautifulSoup library. The website contains data in both HTML and JSON formats. The scraped data is then cleaned and stored in a CSV format for further analysis.
+
 Skills:
 
-Project 3: 
+Web Scraping
+
+Data Cleaning
+
+Python (BeautifulSoup, pandas, json)
+
+# Project 3: 
 Skills
 
 # Tools
