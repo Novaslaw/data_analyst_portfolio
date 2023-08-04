@@ -2,9 +2,19 @@
 This repository contains a collection of data analysis projects that I've completed, showcasing my skills in data cleaning, visualization, analysis, and interpretation.
 
 Projects
-Project 1:
+
+# Project 1: Exploratory Data Analysis on the Gift and Tape Dataset
+This project presents an exploratory data analysis (EDA) on the Gift and Tape dataset, sourced from a Shopee e-commerce store that specializes in selling gift boxes and attracting gifts. The goal of this analysis is to uncover insights that could potentially increase profitability for the store.
 
 Skills:
+
+Data Cleaning
+
+Data Visualization
+
+Exploratory Data Analysis
+
+Python (pandas, matplotlib, seaborn)
 
 Project 2: 
 Skills:
