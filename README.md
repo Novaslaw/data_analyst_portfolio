@@ -24,7 +24,16 @@ Data Cleaning
 
 Python (BeautifulSoup, pandas, json)
 
-# Project 3: ETH NFT Marketplace Volume and Top 50 NFT Projects Analysis
+# Project 3: Data Analyst Job Posting Analysis with Tableau
+This project involves creating a Tableau dashboard to visualize and analyze the data scraped in Project 2. The dashboard presents various visualizations related to job postings for data analyst positions on Jobstreet.
+
+Skills:
+
+Data Visualization
+
+Tableau
+
+# Project 4: ETH NFT Marketplace Volume and Top 50 NFT Projects Analysis
 
 (https://dune.com/novaslaw/eth-nft-marketplace-volume-and-top-50-nft-projects)
 
